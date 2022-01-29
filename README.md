@@ -1,4 +1,4 @@
-# comodoro
+Comodo App
 
 A new Flutter project.
 
